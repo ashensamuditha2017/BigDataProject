@@ -1,0 +1,8 @@
+pymongo
+pandas
+seaborn
+matplotlib
+dask
+pyarrow
+streamlit
+jupyter
