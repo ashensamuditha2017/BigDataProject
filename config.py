@@ -1,1 +1,1 @@
-MONGO_URI = "mongodb+srv://ashensamuditha:1234@cluster0.baprhio.mongodb.net/"
+MONGO_URI = "Your mongo cluster URL"
